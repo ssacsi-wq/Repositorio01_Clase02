@@ -7,7 +7,7 @@ public class Operaciones {
         int n1,n2, suma;
         Scanner lectura=new Scanner(System.in);
         //entrada
-        System.out.print("Ingresar Numero 1:");
+        System.out.println("Ingresar Numero 1:");
         n1=lectura.nextInt();
         System.out.print("Ingresar Numero 2:");
         n2=lectura.nextInt();
